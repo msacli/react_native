@@ -29,3 +29,10 @@ run cmd "adb shell input keyevent 82"
 then a menu will pop up on phone tap reload
 
 done
+
+
+
+ikinci defa run için
+
+cd android && ./gradlew clean
+cd .. && react-native run-android
